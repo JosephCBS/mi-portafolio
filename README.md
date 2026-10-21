@@ -2,6 +2,8 @@
 
 Este es mi portafolio personal, donde muestro quién soy, los proyectos que he realizado y la forma de contactarme.
 
+Este proyecto se desarrolló como práctica de HTML, CSS, Git y GitHub.
+
 ## Descripción
 
 Soy estudiante de Análisis y Desarrollo de Software en el SENA. En este proyecto presento mis habilidades, trabajos realizados durante el programa y mi información de contacto.
